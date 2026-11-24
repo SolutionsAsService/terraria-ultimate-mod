@@ -1,0 +1,10 @@
+{
+  "name": "Ultimate",
+  "tmodloader": "1.4.4",
+  "ours": ["Khemet", "Olympia", "Wilds"],
+  "dependencies": [
+    {"mod": "CalamityMod", "workshop_id": "2824688072", "note": "not redistributed; player subscribes. Workshop id from the mod's own README."},
+    {"mod": "ThoriumMod", "workshop_id": null, "note": "id to be confirmed by the owner"},
+    {"mod": "BossChecklist", "workshop_id": null, "note": "optional; our bosses register with it"}
+  ]
+}

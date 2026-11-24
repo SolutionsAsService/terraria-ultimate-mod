@@ -1,0 +1,6029 @@
+{
+ "source": "reference mod source, numbers only",
+ "weapons": [
+  {
+   "name": "TheWand",
+   "class": "Magic",
+   "damage": 1,
+   "use_time": 19,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "StaffofBlushie",
+   "class": "Magic",
+   "damage": 1,
+   "use_time": 30,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "BulletFilledShotgun",
+   "class": "Ranged",
+   "damage": 1,
+   "use_time": 75,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Barinade",
+   "class": "Ranged",
+   "damage": 5,
+   "use_time": 24,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SlagfireDouser",
+   "class": "Ranged",
+   "damage": 5,
+   "use_time": 30,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "P90",
+   "class": "Ranged",
+   "damage": 6,
+   "use_time": 2,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "RustyBeaconPrototype",
+   "class": "Summon",
+   "damage": 7,
+   "use_time": 30,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Cnidarian",
+   "class": "Summon",
+   "damage": 8,
+   "use_time": 25,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CausticCroakerStaff",
+   "class": "Summon",
+   "damage": 8,
+   "use_time": 30,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SquirrelSquireStaff",
+   "class": "Summon",
+   "damage": 8,
+   "use_time": 30,
+   "rarity": "White",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "MonstrousKnives",
+   "class": "Melee",
+   "damage": 8,
+   "use_time": 21,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PlasmaRod",
+   "class": "Magic",
+   "damage": 8,
+   "use_time": 20,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CoralSpout",
+   "class": "Magic",
+   "damage": 9,
+   "use_time": 26,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AcidwoodBow",
+   "class": "Ranged",
+   "damage": 9,
+   "use_time": 27,
+   "rarity": null,
+   "vanilla_rarity": false
+  },
+  {
+   "name": "LeadTomahawk",
+   "class": "Rogue",
+   "damage": 9,
+   "use_time": 20,
+   "rarity": "White",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "IronFrancisca",
+   "class": "Rogue",
+   "damage": 9,
+   "use_time": 20,
+   "rarity": "White",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "VileFeeder",
+   "class": "Summon",
+   "damage": 10,
+   "use_time": 36,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ScabRipper",
+   "class": "Summon",
+   "damage": 10,
+   "use_time": 36,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "EnchantedKnifeStaff",
+   "class": "Summon",
+   "damage": 10,
+   "use_time": 15,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SlimePuppetStaff",
+   "class": "Summon",
+   "damage": 10,
+   "use_time": 29,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DankStaff",
+   "class": "Summon",
+   "damage": 10,
+   "use_time": 36,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BrittleStarStaff",
+   "class": "Summon",
+   "damage": 10,
+   "use_time": 36,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Serpentine",
+   "class": "Magic",
+   "damage": 10,
+   "use_time": 35,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "IcicleStaff",
+   "class": "Magic",
+   "damage": 10,
+   "use_time": 7,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SkyGlaze",
+   "class": "Magic",
+   "damage": 10,
+   "use_time": 25,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FlurrystormCannon",
+   "class": "Ranged",
+   "damage": 10,
+   "use_time": 16,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "NastyCholla",
+   "class": "Rogue",
+   "damage": 10,
+   "use_time": 20,
+   "rarity": "White",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "StormjawStaff",
+   "class": "Summon",
+   "damage": 11,
+   "use_time": 36,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ShortCircuit",
+   "class": "DraedonsArsenal",
+   "damage": 11,
+   "use_time": 8,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "WulfrumBlunderbuss",
+   "class": "Ranged",
+   "damage": 11,
+   "use_time": 55,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Aestheticus",
+   "class": "Typeless",
+   "damage": 11,
+   "use_time": 25,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "WulfrumKnife",
+   "class": "Rogue",
+   "damage": 11,
+   "use_time": 4,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "WebBall",
+   "class": "Rogue",
+   "damage": 11,
+   "use_time": 20,
+   "rarity": "White",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PolypLauncher",
+   "class": "Summon",
+   "damage": 12,
+   "use_time": 30,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Riptide",
+   "class": "Melee",
+   "damage": 12,
+   "use_time": 25,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AmidiasTrident",
+   "class": "Melee",
+   "damage": 12,
+   "use_time": 17,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AcidwoodSword",
+   "class": "Melee",
+   "damage": 12,
+   "use_time": 18,
+   "rarity": null,
+   "vanilla_rarity": false
+  },
+  {
+   "name": "WulfrumScrewdriver",
+   "class": "Melee",
+   "damage": 12,
+   "use_time": null,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ParasiticSceptor",
+   "class": "Magic",
+   "damage": 12,
+   "use_time": 35,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AquashardShotgun",
+   "class": "Ranged",
+   "damage": 12,
+   "use_time": 30,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Mycoroot",
+   "class": "Rogue",
+   "damage": 12,
+   "use_time": 6,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Kylie",
+   "class": "Rogue",
+   "damage": 12,
+   "use_time": 25,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SeafoamBomb",
+   "class": "Rogue",
+   "damage": 12,
+   "use_time": 25,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ScourgeoftheDesert",
+   "class": "Rogue",
+   "damage": 12,
+   "use_time": 24,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Galeforce",
+   "class": "Ranged",
+   "damage": 13,
+   "use_time": 20,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "UrchinStinger",
+   "class": "Rogue",
+   "damage": 13,
+   "use_time": 17,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FleshOfInfidelity",
+   "class": "Summon",
+   "damage": 14,
+   "use_time": 36,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PuffShroom",
+   "class": "Summon",
+   "damage": 14,
+   "use_time": 36,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GildedDagger",
+   "class": "Rogue",
+   "damage": 14,
+   "use_time": 18,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GleamingDagger",
+   "class": "Rogue",
+   "damage": 14,
+   "use_time": 18,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ThrowingBrick",
+   "class": "Rogue",
+   "damage": 14,
+   "use_time": 25,
+   "rarity": "White",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SnapClam",
+   "class": "Rogue",
+   "damage": 14,
+   "use_time": 25,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FrostBlossomStaff",
+   "class": "Summon",
+   "damage": 15,
+   "use_time": 36,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "HerringStaff",
+   "class": "Summon",
+   "damage": 15,
+   "use_time": 36,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "UrchinMace",
+   "class": "Melee",
+   "damage": 15,
+   "use_time": 19,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Toxibow",
+   "class": "Ranged",
+   "damage": 15,
+   "use_time": 28,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FirestormCannon",
+   "class": "Ranged",
+   "damage": 15,
+   "use_time": 11,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CinderBlossomStaff",
+   "class": "Summon",
+   "damage": 16,
+   "use_time": 36,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AerialTracker",
+   "class": "DraedonsArsenal",
+   "damage": 16,
+   "use_time": 40,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "VeeringWind",
+   "class": "Magic",
+   "damage": 16,
+   "use_time": 36,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SandstreamScepter",
+   "class": "Magic",
+   "damage": 16,
+   "use_time": 20,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Waywasher",
+   "class": "Magic",
+   "damage": 16,
+   "use_time": 15,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Archerfish",
+   "class": "Ranged",
+   "damage": 16,
+   "use_time": 11,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SparkSpreader",
+   "class": "Ranged",
+   "damage": 16,
+   "use_time": 12,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ContaminatedBile",
+   "class": "Rogue",
+   "damage": 16,
+   "use_time": 40,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Crystalline",
+   "class": "Rogue",
+   "damage": 16,
+   "use_time": 18,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BouncingEyeball",
+   "class": "Rogue",
+   "damage": 16,
+   "use_time": 23,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ToothBall",
+   "class": "Rogue",
+   "damage": 16,
+   "use_time": 16,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "RotBall",
+   "class": "Rogue",
+   "damage": 16,
+   "use_time": 16,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SmokingComet",
+   "class": "Melee",
+   "damage": 17,
+   "use_time": 25,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AquamarineStaff",
+   "class": "Magic",
+   "damage": 17,
+   "use_time": 22,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Pumpkaboom",
+   "class": "Rogue",
+   "damage": 17,
+   "use_time": 70,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BlightedSlimeStaff",
+   "class": "Summon",
+   "damage": 18,
+   "use_time": 36,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CausticStaff",
+   "class": "Summon",
+   "damage": 18,
+   "use_time": 36,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AqueousHunterDrone",
+   "class": "DraedonsArsenal",
+   "damage": 18,
+   "use_time": 36,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AcidGun",
+   "class": "Magic",
+   "damage": 18,
+   "use_time": 20,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "WulfrumProsthesis",
+   "class": "Magic",
+   "damage": 18,
+   "use_time": 24,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BlossomFlux",
+   "class": "Ranged",
+   "damage": 18,
+   "use_time": 4,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CrackshotColt",
+   "class": "Ranged",
+   "damage": 18,
+   "use_time": 35,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "StormSurge",
+   "class": "Ranged",
+   "damage": 18,
+   "use_time": 18,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "InfestedClawmerang",
+   "class": "Rogue",
+   "damage": 18,
+   "use_time": 20,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SporeKnife",
+   "class": "Rogue",
+   "damage": 18,
+   "use_time": 20,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "WulfrumController",
+   "class": "Summon",
+   "damage": 19,
+   "use_time": 36,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ShaderainStaff",
+   "class": "Magic",
+   "damage": 19,
+   "use_time": 34,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "OverloadedBlaster",
+   "class": "Ranged",
+   "damage": 19,
+   "use_time": 28,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "MonolithBow",
+   "class": "Ranged",
+   "damage": 19,
+   "use_time": 5,
+   "rarity": null,
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Fungicide",
+   "class": "Ranged",
+   "damage": 19,
+   "use_time": 22,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AntlionSkewer",
+   "class": "Rogue",
+   "damage": 19,
+   "use_time": 28,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "EnchantedAxe",
+   "class": "Rogue",
+   "damage": 19,
+   "use_time": 19,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Glaive",
+   "class": "Rogue",
+   "damage": 19,
+   "use_time": 22,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "HardenedHoneycomb",
+   "class": "Rogue",
+   "damage": 19,
+   "use_time": 18,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DeathstareRod",
+   "class": "Summon",
+   "damage": 20,
+   "use_time": 36,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "EnchantedConch",
+   "class": "Summon",
+   "damage": 20,
+   "use_time": 36,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SaharaSlicers",
+   "class": "Melee",
+   "damage": 20,
+   "use_time": 12,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ManaRose",
+   "class": "Magic",
+   "damage": 20,
+   "use_time": 38,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "NightsRay",
+   "class": "Magic",
+   "damage": 20,
+   "use_time": 20,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "StarStruckWater",
+   "class": "Typeless",
+   "damage": 20,
+   "use_time": 15,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Turbulance",
+   "class": "Rogue",
+   "damage": 20,
+   "use_time": 18,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "HellwingStaff",
+   "class": "Magic",
+   "damage": 21,
+   "use_time": 30,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "RelicofRuin",
+   "class": "Magic",
+   "damage": 21,
+   "use_time": 35,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Shadethrower",
+   "class": "Ranged",
+   "damage": 21,
+   "use_time": 10,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BrimstoneFury",
+   "class": "Ranged",
+   "damage": 21,
+   "use_time": 22,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "InfernalKris",
+   "class": "Rogue",
+   "damage": 21,
+   "use_time": 18,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GelDart",
+   "class": "Rogue",
+   "damage": 21,
+   "use_time": 11,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FuelCellBundle",
+   "class": "Summon",
+   "damage": 22,
+   "use_time": 36,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SunSpiritStaff",
+   "class": "Summon",
+   "damage": 22,
+   "use_time": 36,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BelladonnaSpiritStaff",
+   "class": "Summon",
+   "damage": 22,
+   "use_time": 36,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SeashineSword",
+   "class": "Melee",
+   "damage": 22,
+   "use_time": 40,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AbyssalTome",
+   "class": "Magic",
+   "damage": 22,
+   "use_time": 25,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "HyphaeRod",
+   "class": "Magic",
+   "damage": 22,
+   "use_time": 24,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GunkShot",
+   "class": "Ranged",
+   "damage": 22,
+   "use_time": 35,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FeatherKnife",
+   "class": "Rogue",
+   "damage": 22,
+   "use_time": 30,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Tradewinds",
+   "class": "Magic",
+   "damage": 23,
+   "use_time": 15,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ViralSprout",
+   "class": "Summon",
+   "damage": 24,
+   "use_time": 36,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "EyeOfNight",
+   "class": "Summon",
+   "damage": 24,
+   "use_time": 36,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "MountedScanner",
+   "class": "DraedonsArsenal",
+   "damage": 24,
+   "use_time": 36,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PerfectDark",
+   "class": "Melee",
+   "damage": 24,
+   "use_time": 24,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BloodBath",
+   "class": "Magic",
+   "damage": 24,
+   "use_time": 15,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BlackAnurian",
+   "class": "Magic",
+   "damage": 24,
+   "use_time": 18,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ShadecrystalBarrage",
+   "class": "Magic",
+   "damage": 24,
+   "use_time": 7,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "IonBlaster",
+   "class": "Magic",
+   "damage": 24,
+   "use_time": 7,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ShinobiBlade",
+   "class": "Rogue",
+   "damage": 24,
+   "use_time": 10,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "StaffOfNecrosteocytes",
+   "class": "Summon",
+   "damage": 25,
+   "use_time": 36,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BlackHawkRemote",
+   "class": "Summon",
+   "damage": 25,
+   "use_time": 36,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AncientIceChunk",
+   "class": "Summon",
+   "damage": 25,
+   "use_time": 36,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SpikecragStaff",
+   "class": "Summon",
+   "damage": 25,
+   "use_time": 30,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "HauntedScroll",
+   "class": "Summon",
+   "damage": 25,
+   "use_time": 36,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BallOFugu",
+   "class": "Melee",
+   "damage": 25,
+   "use_time": 20,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FrostBolt",
+   "class": "Magic",
+   "damage": 25,
+   "use_time": 30,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ReedBlowgun",
+   "class": "Ranged",
+   "damage": 25,
+   "use_time": 32,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "MagnaCannon",
+   "class": "Ranged",
+   "damage": 25,
+   "use_time": null,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GoldplumeSpear",
+   "class": "Melee",
+   "damage": 26,
+   "use_time": 25,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Pumpler",
+   "class": "Ranged",
+   "damage": 26,
+   "use_time": 30,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SandDollar",
+   "class": "Rogue",
+   "damage": 26,
+   "use_time": 15,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "HarvestStaff",
+   "class": "Summon",
+   "damage": 27,
+   "use_time": 30,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SausageMaker",
+   "class": "Melee",
+   "damage": 27,
+   "use_time": 20,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "LunarianBow",
+   "class": "Ranged",
+   "damage": 27,
+   "use_time": 22,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FishboneBoomerang",
+   "class": "Rogue",
+   "damage": 27,
+   "use_time": 30,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TheGodsGambit",
+   "class": "Melee",
+   "damage": 28,
+   "use_time": 21,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "MycelialClaws",
+   "class": "Melee",
+   "damage": 28,
+   "use_time": 7,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Arbalest",
+   "class": "Ranged",
+   "damage": 28,
+   "use_time": 7,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Brimblade",
+   "class": "Rogue",
+   "damage": 28,
+   "use_time": 18,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "MetalMonstrosity",
+   "class": "Rogue",
+   "damage": 28,
+   "use_time": 45,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AirSpinner",
+   "class": "Melee",
+   "damage": 29,
+   "use_time": 22,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Meowthrower",
+   "class": "Ranged",
+   "damage": 29,
+   "use_time": 8,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "IgneousExaltation",
+   "class": "Summon",
+   "damage": 30,
+   "use_time": 36,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CryogenicStaff",
+   "class": "Summon",
+   "damage": 30,
+   "use_time": 30,
+   "rarity": "LightPurple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "HolofibreImmolator",
+   "class": "DraedonsArsenal",
+   "damage": 30,
+   "use_time": 14,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "WindBlade",
+   "class": "Melee",
+   "damage": 30,
+   "use_time": 22,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "YateveoBloom",
+   "class": "Melee",
+   "damage": 30,
+   "use_time": 22,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "MonolithSword",
+   "class": "Melee",
+   "damage": 30,
+   "use_time": 7,
+   "rarity": null,
+   "vanilla_rarity": false
+  },
+  {
+   "name": "AbyssShocker",
+   "class": "Magic",
+   "damage": 30,
+   "use_time": 19,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Vortexpopper",
+   "class": "Ranged",
+   "damage": 30,
+   "use_time": 21,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "OpalStriker",
+   "class": "Ranged",
+   "damage": 30,
+   "use_time": null,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BladedgeRailbow",
+   "class": "Ranged",
+   "damage": 30,
+   "use_time": 28,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SludgeSplotch",
+   "class": "Rogue",
+   "damage": 30,
+   "use_time": 18,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Aorta",
+   "class": "Melee",
+   "damage": 31,
+   "use_time": 22,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FlarewingBow",
+   "class": "Ranged",
+   "damage": 31,
+   "use_time": 35,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "MeteorFist",
+   "class": "Rogue",
+   "damage": 31,
+   "use_time": 25,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DeepseaStaff",
+   "class": "Summon",
+   "damage": 32,
+   "use_time": 36,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BurntSienna",
+   "class": "Melee",
+   "damage": 32,
+   "use_time": 24,
+   "rarity": "Blue",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "EldritchTome",
+   "class": "Magic",
+   "damage": 32,
+   "use_time": 7,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Barinautical",
+   "class": "Ranged",
+   "damage": 32,
+   "use_time": 4,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "LunicEye",
+   "class": "Typeless",
+   "damage": 32,
+   "use_time": 22,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BlastBarrel",
+   "class": "Rogue",
+   "damage": 32,
+   "use_time": 22,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TeardropCleaver",
+   "class": "Melee",
+   "damage": 33,
+   "use_time": 24,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Scorpio",
+   "class": "Ranged",
+   "damage": 33,
+   "use_time": null,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Goobow",
+   "class": "Ranged",
+   "damage": 33,
+   "use_time": 31,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Helstorm",
+   "class": "Ranged",
+   "damage": 33,
+   "use_time": 9,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Lionfish",
+   "class": "Rogue",
+   "damage": 33,
+   "use_time": 26,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "LemonNade",
+   "class": "Rogue",
+   "damage": 33,
+   "use_time": 30,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BorealisBomber",
+   "class": "Summon",
+   "damage": 34,
+   "use_time": 20,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Oblivion",
+   "class": "Melee",
+   "damage": 35,
+   "use_time": 22,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BladecrestOathsword",
+   "class": "Melee",
+   "damage": 35,
+   "use_time": 53,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PolarisParrotfish",
+   "class": "Ranged",
+   "damage": 35,
+   "use_time": 9,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "VernalBolter",
+   "class": "Ranged",
+   "damage": 35,
+   "use_time": 20,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Cinquedea",
+   "class": "Rogue",
+   "damage": 35,
+   "use_time": 20,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "IceStar",
+   "class": "Rogue",
+   "damage": 35,
+   "use_time": 17,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ClothiersWrath",
+   "class": "Magic",
+   "damage": 36,
+   "use_time": 22,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TheSwarmer",
+   "class": "Magic",
+   "damage": 36,
+   "use_time": 12,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SlagMagnum",
+   "class": "Ranged",
+   "damage": 36,
+   "use_time": 15,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ClamorRifle",
+   "class": "Ranged",
+   "damage": 36,
+   "use_time": 15,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "HoarfrostBow",
+   "class": "Ranged",
+   "damage": 36,
+   "use_time": 29,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GacruxianMollusk",
+   "class": "Rogue",
+   "damage": 36,
+   "use_time": 26,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Prismalline",
+   "class": "Rogue",
+   "damage": 36,
+   "use_time": 20,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "HadalUrn",
+   "class": "Magic",
+   "damage": 37,
+   "use_time": 20,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FrostyFlare",
+   "class": "Rogue",
+   "damage": 37,
+   "use_time": 13,
+   "rarity": "LightPurple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AshenStalactite",
+   "class": "Rogue",
+   "damage": 37,
+   "use_time": 20,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "EntropysVigil",
+   "class": "Summon",
+   "damage": 38,
+   "use_time": 36,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "VengefulSunStaff",
+   "class": "Summon",
+   "damage": 38,
+   "use_time": 36,
+   "rarity": "LightPurple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "StormSaber",
+   "class": "Melee",
+   "damage": 38,
+   "use_time": 23,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GeliticBlade",
+   "class": "Melee",
+   "damage": 38,
+   "use_time": 30,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "VeinBurster",
+   "class": "Melee",
+   "damage": 38,
+   "use_time": 41,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "StormfrontRazor",
+   "class": "Rogue",
+   "damage": 38,
+   "use_time": 20,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TitaniumShuriken",
+   "class": "Rogue",
+   "damage": 38,
+   "use_time": 9,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SnowstormStaff",
+   "class": "Magic",
+   "damage": 39,
+   "use_time": 70,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "MarksmanBow",
+   "class": "Ranged",
+   "damage": 39,
+   "use_time": 5,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Animosity",
+   "class": "Ranged",
+   "damage": 39,
+   "use_time": 31,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DreadmineStaff",
+   "class": "Summon",
+   "damage": 40,
+   "use_time": 30,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SulphurousGrabber",
+   "class": "Melee",
+   "damage": 40,
+   "use_time": 25,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ApoctosisArray",
+   "class": "Magic",
+   "damage": 40,
+   "use_time": 5,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FlareBolt",
+   "class": "Magic",
+   "damage": 40,
+   "use_time": 80,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Miasma",
+   "class": "Magic",
+   "damage": 40,
+   "use_time": 27,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SeethingDischarge",
+   "class": "Magic",
+   "damage": 40,
+   "use_time": 60,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SeasSearing",
+   "class": "Ranged",
+   "damage": 40,
+   "use_time": 5,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SpeedBlaster",
+   "class": "Ranged",
+   "damage": 40,
+   "use_time": 10,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Shellshooter",
+   "class": "Ranged",
+   "damage": 40,
+   "use_time": 70,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TheStorm",
+   "class": "Ranged",
+   "damage": 40,
+   "use_time": 2,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "OrichalcumSpikedGemstone",
+   "class": "Rogue",
+   "damage": 40,
+   "use_time": 13,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "WalkingCane",
+   "class": "Rogue",
+   "damage": 40,
+   "use_time": 16,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FracturedArk",
+   "class": "Melee",
+   "damage": 41,
+   "use_time": 22,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Shimmerspark",
+   "class": "Melee",
+   "damage": 41,
+   "use_time": 25,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DormantBrimseeker",
+   "class": "Summon",
+   "damage": 42,
+   "use_time": 36,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "OrthoceraShell",
+   "class": "Summon",
+   "damage": 42,
+   "use_time": 30,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PulsePistol",
+   "class": "DraedonsArsenal",
+   "damage": 42,
+   "use_time": 64,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Vulcan",
+   "class": "DraedonsArsenal",
+   "damage": 42,
+   "use_time": 11,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TearsofHeaven",
+   "class": "Magic",
+   "damage": 43,
+   "use_time": 20,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "LeviathanTeeth",
+   "class": "Rogue",
+   "damage": 43,
+   "use_time": 9,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "YinYo",
+   "class": "Melee",
+   "damage": 44,
+   "use_time": 25,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "UndinesRetribution",
+   "class": "Magic",
+   "damage": 44,
+   "use_time": 18,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Hydra",
+   "class": "Ranged",
+   "damage": 44,
+   "use_time": 66,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CountermeasureMitt",
+   "class": "DraedonsArsenal",
+   "damage": 45,
+   "use_time": 11,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SystemBane",
+   "class": "DraedonsArsenal",
+   "damage": 45,
+   "use_time": 15,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CometQuasher",
+   "class": "Melee",
+   "damage": 45,
+   "use_time": 38,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BrimroseStaff",
+   "class": "Magic",
+   "damage": 45,
+   "use_time": 16,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DarkechoGreatbow",
+   "class": "Ranged",
+   "damage": 45,
+   "use_time": 33,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ContinentalGreatbow",
+   "class": "Ranged",
+   "damage": 45,
+   "use_time": 24,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DeepcoreGK2",
+   "class": "Ranged",
+   "damage": 45,
+   "use_time": 14,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ThermoclineBlaster",
+   "class": "Ranged",
+   "damage": 45,
+   "use_time": 16,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FantasyTalisman",
+   "class": "Rogue",
+   "damage": 45,
+   "use_time": 25,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CursedDagger",
+   "class": "Rogue",
+   "damage": 45,
+   "use_time": 18,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ForgottenApexWand",
+   "class": "Summon",
+   "damage": 46,
+   "use_time": 36,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SkyfinBombers",
+   "class": "Rogue",
+   "damage": 46,
+   "use_time": 35,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TerrorTalons",
+   "class": "Rogue",
+   "damage": 47,
+   "use_time": 7,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GlacialEmbrace",
+   "class": "Summon",
+   "damage": 48,
+   "use_time": 36,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DepthCrusher",
+   "class": "Melee",
+   "damage": 48,
+   "use_time": 65,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TaintedBlade",
+   "class": "Melee",
+   "damage": 48,
+   "use_time": 27,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Swordsplosion",
+   "class": "Melee",
+   "damage": 48,
+   "use_time": 30,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Shredder",
+   "class": "Ranged",
+   "damage": 48,
+   "use_time": 4,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AuroradicalThrow",
+   "class": "Rogue",
+   "damage": 48,
+   "use_time": 30,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ConsecratedWater",
+   "class": "Rogue",
+   "damage": 48,
+   "use_time": 29,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CobaltKunai",
+   "class": "Rogue",
+   "damage": 49,
+   "use_time": 12,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "LegionofCelestia",
+   "class": "Summon",
+   "damage": 50,
+   "use_time": 24,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "InfectedRemote",
+   "class": "Summon",
+   "damage": 50,
+   "use_time": 36,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GastricBelcherStaff",
+   "class": "Summon",
+   "damage": 50,
+   "use_time": 36,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "WitherBlossomsStaff",
+   "class": "Summon",
+   "damage": 50,
+   "use_time": 36,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CelestialClaymore",
+   "class": "Melee",
+   "damage": 50,
+   "use_time": 24,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TheDarkMaster",
+   "class": "Melee",
+   "damage": 50,
+   "use_time": 26,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Brimlance",
+   "class": "Melee",
+   "damage": 50,
+   "use_time": 19,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Downpour",
+   "class": "Magic",
+   "damage": 50,
+   "use_time": 15,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "InfernalRift",
+   "class": "Magic",
+   "damage": 50,
+   "use_time": 2,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SlitheringEels",
+   "class": "Magic",
+   "damage": 50,
+   "use_time": 40,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FrostbiteBlaster",
+   "class": "Ranged",
+   "damage": 50,
+   "use_time": 7,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "KelvinCatalyst",
+   "class": "Rogue",
+   "damage": 50,
+   "use_time": 30,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ScourgeoftheSeas",
+   "class": "Rogue",
+   "damage": 50,
+   "use_time": 24,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BlightedCleaver",
+   "class": "Melee",
+   "damage": 52,
+   "use_time": 28,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Poseidon",
+   "class": "Magic",
+   "damage": 52,
+   "use_time": 49,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BlightSpewer",
+   "class": "Ranged",
+   "damage": 52,
+   "use_time": 19,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Needler",
+   "class": "Ranged",
+   "damage": 52,
+   "use_time": 18,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BarracudaGun",
+   "class": "Ranged",
+   "damage": 52,
+   "use_time": 20,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Malachite",
+   "class": "Rogue",
+   "damage": 52,
+   "use_time": 14,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GleamingMagnolia",
+   "class": "Magic",
+   "damage": 53,
+   "use_time": 27,
+   "rarity": "LightPurple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ConferenceCall",
+   "class": "Ranged",
+   "damage": 53,
+   "use_time": 42,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AmphibiansGuitar",
+   "class": "Summon",
+   "damage": 54,
+   "use_time": 36,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Quagmire",
+   "class": "Melee",
+   "damage": 54,
+   "use_time": 22,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "RealmRavager",
+   "class": "Ranged",
+   "damage": 54,
+   "use_time": 22,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ViridVanguard",
+   "class": "Summon",
+   "damage": 55,
+   "use_time": 24,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Auger",
+   "class": "DraedonsArsenal",
+   "damage": 55,
+   "use_time": 12,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Vesuvius",
+   "class": "Magic",
+   "damage": 55,
+   "use_time": 15,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AstralachneaStaff",
+   "class": "Magic",
+   "damage": 55,
+   "use_time": 21,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Keelhaul",
+   "class": "Magic",
+   "damage": 55,
+   "use_time": 30,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DesecratedWater",
+   "class": "Rogue",
+   "damage": 55,
+   "use_time": 29,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "RadiantStar",
+   "class": "Rogue",
+   "damage": 55,
+   "use_time": 12,
+   "rarity": "Cyan",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TundraFlameBlossomsStaff",
+   "class": "Summon",
+   "damage": 56,
+   "use_time": 36,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AbandonedSlimeStaff",
+   "class": "Summon",
+   "damage": 56,
+   "use_time": 36,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BurningSea",
+   "class": "Magic",
+   "damage": 56,
+   "use_time": 20,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TheCauldron",
+   "class": "Magic",
+   "damage": 56,
+   "use_time": 60,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Malevolence",
+   "class": "Ranged",
+   "damage": 56,
+   "use_time": 18,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Buzzkill",
+   "class": "Ranged",
+   "damage": 56,
+   "use_time": 30,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "OmniGun",
+   "class": "Ranged",
+   "damage": 57,
+   "use_time": 6,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BallisticPoisonBomb",
+   "class": "Rogue",
+   "damage": 57,
+   "use_time": 26,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "LeonidProgenitor",
+   "class": "Rogue",
+   "damage": 57,
+   "use_time": 15,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CrushsawCrasher",
+   "class": "Rogue",
+   "damage": 57,
+   "use_time": 18,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PlantationStaff",
+   "class": "Summon",
+   "damage": 58,
+   "use_time": 36,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ForbiddenOathblade",
+   "class": "Melee",
+   "damage": 58,
+   "use_time": 50,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ArchAmaryllis",
+   "class": "Magic",
+   "damage": 58,
+   "use_time": 23,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "OnyxChainBlaster",
+   "class": "Ranged",
+   "damage": 58,
+   "use_time": 15,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Megalodon",
+   "class": "Ranged",
+   "damage": 58,
+   "use_time": 4,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Mistlestorm",
+   "class": "Magic",
+   "damage": 59,
+   "use_time": 6,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "SandSharknadoStaff",
+   "class": "Summon",
+   "damage": 60,
+   "use_time": 36,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DarklightGreatsword",
+   "class": "Melee",
+   "damage": 60,
+   "use_time": 30,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Brimlash",
+   "class": "Melee",
+   "damage": 60,
+   "use_time": 30,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TyphonsGreed",
+   "class": "Melee",
+   "damage": 60,
+   "use_time": 30,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Effervescence",
+   "class": "Magic",
+   "damage": 60,
+   "use_time": 15,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "StarShower",
+   "class": "Magic",
+   "damage": 60,
+   "use_time": 14,
+   "rarity": "Cyan",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DarkSpark",
+   "class": "Magic",
+   "damage": 60,
+   "use_time": 10,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "GloriousEnd",
+   "class": "Magic",
+   "damage": 60,
+   "use_time": 30,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AnahitasArpeggio",
+   "class": "Magic",
+   "damage": 60,
+   "use_time": 22,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "RecitationoftheBeast",
+   "class": "Magic",
+   "damage": 60,
+   "use_time": 22,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "PristineFury",
+   "class": "Ranged",
+   "damage": 60,
+   "use_time": 3,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Eviscerator",
+   "class": "Ranged",
+   "damage": 60,
+   "use_time": 60,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "EyeofMagnus",
+   "class": "Typeless",
+   "damage": 60,
+   "use_time": 22,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Icebreaker",
+   "class": "Rogue",
+   "damage": 60,
+   "use_time": 14,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TheSyringe",
+   "class": "Rogue",
+   "damage": 60,
+   "use_time": 15,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AdamantiteThrowingAxe",
+   "class": "Rogue",
+   "damage": 61,
+   "use_time": 14,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "WildfireBloom",
+   "class": "Ranged",
+   "damage": 62,
+   "use_time": null,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "HavocsBreath",
+   "class": "Ranged",
+   "damage": 62,
+   "use_time": 5,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Apathanull",
+   "class": "Magic",
+   "damage": 63,
+   "use_time": 8,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Plaguenade",
+   "class": "Rogue",
+   "damage": 63,
+   "use_time": 15,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TotalityBreakers",
+   "class": "Rogue",
+   "damage": 64,
+   "use_time": 28,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AquasScepter",
+   "class": "Summon",
+   "damage": 65,
+   "use_time": 30,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Basher",
+   "class": "Melee",
+   "damage": 65,
+   "use_time": 30,
+   "rarity": "Green",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "WyvernsCall",
+   "class": "Magic",
+   "damage": 65,
+   "use_time": 23,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "WintersFury",
+   "class": "Magic",
+   "damage": 65,
+   "use_time": 12,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "EvergladeSpray",
+   "class": "Magic",
+   "damage": 65,
+   "use_time": 6,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "YharimsCrystal",
+   "class": "Magic",
+   "damage": 65,
+   "use_time": 10,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "AlulaAustralis",
+   "class": "Magic",
+   "damage": 65,
+   "use_time": 17,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Genesis",
+   "class": "Magic",
+   "damage": 65,
+   "use_time": 5,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AdamantiteParticleAccelerator",
+   "class": "Ranged",
+   "damage": 65,
+   "use_time": null,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SarosPossession",
+   "class": "Summon",
+   "damage": 66,
+   "use_time": 24,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ResurrectionButterfly",
+   "class": "Summon",
+   "damage": 66,
+   "use_time": 36,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PlanetaryAnnihilation",
+   "class": "Ranged",
+   "damage": 66,
+   "use_time": 22,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "MythrilKnife",
+   "class": "Rogue",
+   "damage": 66,
+   "use_time": 12,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "EternalBlizzard",
+   "class": "Ranged",
+   "damage": 67,
+   "use_time": 18,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DazzlingStabberStaff",
+   "class": "Summon",
+   "damage": 69,
+   "use_time": 24,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Nidhogg",
+   "class": "DraedonsArsenal",
+   "damage": 69,
+   "use_time": 8,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "IcicleTrident",
+   "class": "Magic",
+   "damage": 69,
+   "use_time": 25,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AuroraBlazer",
+   "class": "Ranged",
+   "damage": 69,
+   "use_time": 5,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "StellarKnife",
+   "class": "Rogue",
+   "damage": 69,
+   "use_time": 9,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FlowersOfMortality",
+   "class": "Summon",
+   "damage": 70,
+   "use_time": 24,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DaedalusGolemStaff",
+   "class": "Summon",
+   "damage": 70,
+   "use_time": 36,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ShellfishStaff",
+   "class": "Summon",
+   "damage": 70,
+   "use_time": 36,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BrimstoneSword",
+   "class": "Melee",
+   "damage": 70,
+   "use_time": 28,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Respiteblock",
+   "class": "Melee",
+   "damage": 70,
+   "use_time": 10,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PlagueStaff",
+   "class": "Magic",
+   "damage": 70,
+   "use_time": 21,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Nucleosynthesis",
+   "class": "Magic",
+   "damage": 70,
+   "use_time": 4,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Sandblaster",
+   "class": "Ranged",
+   "damage": 70,
+   "use_time": 18,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SpearofPaleolith",
+   "class": "Rogue",
+   "damage": 70,
+   "use_time": 27,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SpearofDestiny",
+   "class": "Rogue",
+   "damage": 70,
+   "use_time": 41,
+   "rarity": "LightPurple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FlakToxicannon",
+   "class": "Ranged",
+   "damage": 73,
+   "use_time": 44,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "NettlevineGreatbow",
+   "class": "Ranged",
+   "damage": 73,
+   "use_time": 18,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "BurningStrife",
+   "class": "Rogue",
+   "damage": 73,
+   "use_time": 25,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Photosynthesis",
+   "class": "Magic",
+   "damage": 74,
+   "use_time": 21,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "HivePod",
+   "class": "Summon",
+   "damage": 75,
+   "use_time": 30,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GuidelightofOblivion",
+   "class": "Summon",
+   "damage": 75,
+   "use_time": 30,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "HydraulicVoltCrasher",
+   "class": "DraedonsArsenal",
+   "damage": 75,
+   "use_time": 4,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "WavePounder",
+   "class": "DraedonsArsenal",
+   "damage": 75,
+   "use_time": 56,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "FaultLine",
+   "class": "Melee",
+   "damage": 75,
+   "use_time": 22,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Avalanche",
+   "class": "Melee",
+   "damage": 75,
+   "use_time": 35,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "MantisClaws",
+   "class": "Melee",
+   "damage": 75,
+   "use_time": 25,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AbsoluteZero",
+   "class": "Melee",
+   "damage": 75,
+   "use_time": 20,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Hematemesis",
+   "class": "Magic",
+   "damage": 75,
+   "use_time": 22,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CorrodedCaustibow",
+   "class": "Ranged",
+   "damage": 75,
+   "use_time": 45,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "M1Garand",
+   "class": "Ranged",
+   "damage": 75,
+   "use_time": 40,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Infinity",
+   "class": "Ranged",
+   "damage": 75,
+   "use_time": 1,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "BlazingStar",
+   "class": "Rogue",
+   "damage": 75,
+   "use_time": 15,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SoulHarvester",
+   "class": "Melee",
+   "damage": 77,
+   "use_time": 22,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Arietes41",
+   "class": "Ranged",
+   "damage": 77,
+   "use_time": 13,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Tumbleweed",
+   "class": "Melee",
+   "damage": 78,
+   "use_time": 20,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FlakKraken",
+   "class": "Ranged",
+   "damage": 78,
+   "use_time": null,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PlagueTaintedSMG",
+   "class": "Ranged",
+   "damage": 78,
+   "use_time": 12,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PridefulHuntersPlanarRipper",
+   "class": "Ranged",
+   "damage": 79,
+   "use_time": 5,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "StarnightLance",
+   "class": "Melee",
+   "damage": 80,
+   "use_time": 23,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BotanicPiercer",
+   "class": "Melee",
+   "damage": 80,
+   "use_time": 17,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "StormRuler",
+   "class": "Melee",
+   "damage": 80,
+   "use_time": 25,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ForsakenSaber",
+   "class": "Melee",
+   "damage": 80,
+   "use_time": 15,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AstralScythe",
+   "class": "Melee",
+   "damage": 80,
+   "use_time": 20,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ArcticBearPaw",
+   "class": "Magic",
+   "damage": 80,
+   "use_time": 28,
+   "rarity": "LightPurple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Omicron",
+   "class": "Magic",
+   "damage": 80,
+   "use_time": 4,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ForbiddenSun",
+   "class": "Magic",
+   "damage": 80,
+   "use_time": 30,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Whitewater",
+   "class": "Rogue",
+   "damage": 80,
+   "use_time": 34,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "WaveSkipper",
+   "class": "Rogue",
+   "damage": 80,
+   "use_time": 22,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SamsaraSlicer",
+   "class": "Rogue",
+   "damage": 80,
+   "use_time": 30,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "EpidemicShredder",
+   "class": "Rogue",
+   "damage": 80,
+   "use_time": 16,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SpentFuelContainer",
+   "class": "Rogue",
+   "damage": 80,
+   "use_time": 50,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ShatteredDawn",
+   "class": "Rogue",
+   "damage": 80,
+   "use_time": 12,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Greentide",
+   "class": "Melee",
+   "damage": 81,
+   "use_time": 30,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ShiftingSands",
+   "class": "Magic",
+   "damage": 81,
+   "use_time": 30,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Atlantis",
+   "class": "Magic",
+   "damage": 81,
+   "use_time": 25,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "MidasPrime",
+   "class": "Ranged",
+   "damage": 81,
+   "use_time": 32,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FrostcrushValari",
+   "class": "Rogue",
+   "damage": 81,
+   "use_time": 19,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PalladiumJavelin",
+   "class": "Rogue",
+   "damage": 81,
+   "use_time": 24,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Wingman",
+   "class": "Magic",
+   "damage": 82,
+   "use_time": 15,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TelluricGlare",
+   "class": "Ranged",
+   "damage": 83,
+   "use_time": 3,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "MangroveChakram",
+   "class": "Rogue",
+   "damage": 84,
+   "use_time": 14,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Equanimity",
+   "class": "Rogue",
+   "damage": 84,
+   "use_time": 46,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GraveGrimreaver",
+   "class": "Rogue",
+   "damage": 84,
+   "use_time": 48,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "EarthenPike",
+   "class": "Melee",
+   "damage": 85,
+   "use_time": 25,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Floodtide",
+   "class": "Melee",
+   "damage": 85,
+   "use_time": 24,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Nebulash",
+   "class": "Melee",
+   "damage": 85,
+   "use_time": 18,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "MineralMortar",
+   "class": "Ranged",
+   "damage": 85,
+   "use_time": 60,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SpectralstormCannon",
+   "class": "Ranged",
+   "damage": 85,
+   "use_time": 11,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DefectiveSphere",
+   "class": "Rogue",
+   "damage": 85,
+   "use_time": 13,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TheBallista",
+   "class": "Ranged",
+   "damage": 88,
+   "use_time": 28,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GoldenEagle",
+   "class": "Ranged",
+   "damage": 88,
+   "use_time": 18,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Leviatitan",
+   "class": "Ranged",
+   "damage": 89,
+   "use_time": 18,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Sirius",
+   "class": "Summon",
+   "damage": 90,
+   "use_time": 24,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "HellfireFlamberge",
+   "class": "Melee",
+   "damage": 90,
+   "use_time": 20,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AstralPike",
+   "class": "Melee",
+   "damage": 90,
+   "use_time": 13,
+   "rarity": "Cyan",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ExaltedOathblade",
+   "class": "Melee",
+   "damage": 90,
+   "use_time": 45,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "EntropicClaymore",
+   "class": "Melee",
+   "damage": 90,
+   "use_time": 30,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "VulcaniteLance",
+   "class": "Melee",
+   "damage": 90,
+   "use_time": 22,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SubmarineShocker",
+   "class": "Melee",
+   "damage": 90,
+   "use_time": 16,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ValkyrieRay",
+   "class": "Magic",
+   "damage": 90,
+   "use_time": null,
+   "rarity": "LightPurple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Onyxia",
+   "class": "Ranged",
+   "damage": 90,
+   "use_time": 10,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "DukesDecapitator",
+   "class": "Rogue",
+   "damage": 90,
+   "use_time": 30,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "NuclearFury",
+   "class": "Magic",
+   "damage": 91,
+   "use_time": 25,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Riftburst",
+   "class": "Ranged",
+   "damage": 91,
+   "use_time": 12,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "AngelicShotgun",
+   "class": "Ranged",
+   "damage": 92,
+   "use_time": 26,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TheHive",
+   "class": "Ranged",
+   "damage": 92,
+   "use_time": null,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ReboundingRainbow",
+   "class": "Rogue",
+   "damage": 92,
+   "use_time": 16,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CrystalPiercer",
+   "class": "Rogue",
+   "damage": 92,
+   "use_time": 22,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GammaHeart",
+   "class": "Summon",
+   "damage": 93,
+   "use_time": 24,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ChromaticEruption",
+   "class": "Ranged",
+   "damage": 94,
+   "use_time": 6,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Cosmilamp",
+   "class": "Summon",
+   "damage": 95,
+   "use_time": 24,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "FrigidflashBolt",
+   "class": "Magic",
+   "damage": 95,
+   "use_time": 20,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SubductionSlicer",
+   "class": "Rogue",
+   "damage": 95,
+   "use_time": 20,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Cryophobia",
+   "class": "Magic",
+   "damage": 96,
+   "use_time": 40,
+   "rarity": "LightPurple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Alluvion",
+   "class": "Ranged",
+   "damage": 96,
+   "use_time": 15,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "CorpusAvertor",
+   "class": "Rogue",
+   "damage": 98,
+   "use_time": 15,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CorvidHarbringerStaff",
+   "class": "Summon",
+   "damage": 99,
+   "use_time": 24,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "SanctifiedSpark",
+   "class": "Summon",
+   "damage": 100,
+   "use_time": 30,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TrueCausticEdge",
+   "class": "Melee",
+   "damage": 100,
+   "use_time": 28,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "OldLordClaymore",
+   "class": "Melee",
+   "damage": 100,
+   "use_time": 90,
+   "rarity": "Orange",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "StellarStriker",
+   "class": "Melee",
+   "damage": 100,
+   "use_time": 28,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Omniblade",
+   "class": "Melee",
+   "damage": 100,
+   "use_time": 12,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "HellionFlowerSpear",
+   "class": "Melee",
+   "damage": 100,
+   "use_time": 20,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TrueArkoftheAncients",
+   "class": "Melee",
+   "damage": 100,
+   "use_time": 25,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Virulence",
+   "class": "Melee",
+   "damage": 100,
+   "use_time": 15,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "HalibutCannon",
+   "class": "Ranged",
+   "damage": 100,
+   "use_time": 10,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "SuperradiantSlaughterer",
+   "class": "Ranged",
+   "damage": 100,
+   "use_time": 30,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "RegulusRiot",
+   "class": "Rogue",
+   "damage": 100,
+   "use_time": 24,
+   "rarity": "Cyan",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "LunarKunai",
+   "class": "Rogue",
+   "damage": 102,
+   "use_time": 10,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "StarspawnHelixStaff",
+   "class": "Summon",
+   "damage": 103,
+   "use_time": 36,
+   "rarity": "Cyan",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PestilentDefiler",
+   "class": "Ranged",
+   "damage": 105,
+   "use_time": 37,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FeralthornClaymore",
+   "class": "Melee",
+   "damage": 109,
+   "use_time": 13,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "VoidEaterMarionette",
+   "class": "Summon",
+   "damage": 110,
+   "use_time": 24,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TacticalPlagueEngine",
+   "class": "Summon",
+   "damage": 110,
+   "use_time": 24,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "EmpyreanKnives",
+   "class": "Melee",
+   "damage": 110,
+   "use_time": 15,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "CosmicKunai",
+   "class": "Rogue",
+   "damage": 110,
+   "use_time": 3,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "DuststormInABottle",
+   "class": "Rogue",
+   "damage": 110,
+   "use_time": 28,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DefiledGreatsword",
+   "class": "Melee",
+   "damage": 111,
+   "use_time": 28,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TheMicrowave",
+   "class": "Melee",
+   "damage": 111,
+   "use_time": 22,
+   "rarity": "Cyan",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "LightGodsBrilliance",
+   "class": "Magic",
+   "damage": 111,
+   "use_time": 6,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ShardofAntumbra",
+   "class": "Rogue",
+   "damage": 111,
+   "use_time": 17,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Mourningstar",
+   "class": "Melee",
+   "damage": 112,
+   "use_time": 10,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "AbyssBlade",
+   "class": "Melee",
+   "damage": 114,
+   "use_time": 65,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Vigilance",
+   "class": "Summon",
+   "damage": 115,
+   "use_time": 24,
+   "rarity": "CalamityRed",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "DeadSunsWind",
+   "class": "Ranged",
+   "damage": 115,
+   "use_time": 22,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Ultima",
+   "class": "Ranged",
+   "damage": 115,
+   "use_time": 8,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "SHPC",
+   "class": "Magic",
+   "damage": 117,
+   "use_time": 60,
+   "rarity": "LightPurple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CosmicRainbow",
+   "class": "Magic",
+   "damage": 117,
+   "use_time": 10,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Biofusillade",
+   "class": "Magic",
+   "damage": 118,
+   "use_time": 3,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "SDFMG",
+   "class": "Ranged",
+   "damage": 118,
+   "use_time": 3,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "RougeSlash",
+   "class": "Magic",
+   "damage": 119,
+   "use_time": 19,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CalamarisLament",
+   "class": "Summon",
+   "damage": 120,
+   "use_time": 24,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TenebreusTides",
+   "class": "Melee",
+   "damage": 120,
+   "use_time": 14,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AnarchyBlade",
+   "class": "Melee",
+   "damage": 120,
+   "use_time": 19,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Terratomere",
+   "class": "Melee",
+   "damage": 120,
+   "use_time": 21,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "UltraLiquidator",
+   "class": "Magic",
+   "damage": 120,
+   "use_time": 3,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GhastlyVisage",
+   "class": "Magic",
+   "damage": 120,
+   "use_time": 27,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ArtAttack",
+   "class": "Magic",
+   "damage": 120,
+   "use_time": 24,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ThornBlossom",
+   "class": "Magic",
+   "damage": 120,
+   "use_time": 23,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "FatesReveal",
+   "class": "Magic",
+   "damage": 120,
+   "use_time": 16,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "PlasmaRifle",
+   "class": "Magic",
+   "damage": 120,
+   "use_time": 40,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BloodBoiler",
+   "class": "Ranged",
+   "damage": 120,
+   "use_time": 5,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "FreedomStar",
+   "class": "Ranged",
+   "damage": 120,
+   "use_time": 10,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "IchorSpear",
+   "class": "Rogue",
+   "damage": 120,
+   "use_time": 39,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PulseGrenade",
+   "class": "DraedonsArsenal",
+   "damage": 123,
+   "use_time": 75,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Lucrecia",
+   "class": "Melee",
+   "damage": 124,
+   "use_time": 34,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FlarefrostBlade",
+   "class": "Melee",
+   "damage": 125,
+   "use_time": 29,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Pandemic",
+   "class": "Melee",
+   "damage": 125,
+   "use_time": 22,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ArcNovaDiffuser",
+   "class": "Ranged",
+   "damage": 125,
+   "use_time": null,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SpineOfThanatos",
+   "class": "Melee",
+   "damage": 128,
+   "use_time": 24,
+   "rarity": "ExoticRainbow",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Drataliornus",
+   "class": "Ranged",
+   "damage": 129,
+   "use_time": 12,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "GalvanizingGlaive",
+   "class": "DraedonsArsenal",
+   "damage": 130,
+   "use_time": 21,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Carnage",
+   "class": "Melee",
+   "damage": 130,
+   "use_time": 21,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "UltimusCleaver",
+   "class": "Melee",
+   "damage": 130,
+   "use_time": 20,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FaceMelter",
+   "class": "Magic",
+   "damage": 130,
+   "use_time": 10,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "LashesofChaos",
+   "class": "Magic",
+   "damage": 130,
+   "use_time": 46,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DeathValleyDuster",
+   "class": "Magic",
+   "damage": 130,
+   "use_time": 50,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AuguroftheVoid",
+   "class": "Magic",
+   "damage": 131,
+   "use_time": 2,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "StellarTorusStaff",
+   "class": "Summon",
+   "damage": 132,
+   "use_time": 24,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "DeepWounder",
+   "class": "Rogue",
+   "damage": 132,
+   "use_time": 25,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "NanoPurge",
+   "class": "Magic",
+   "damage": 135,
+   "use_time": null,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ElephantKiller",
+   "class": "Rogue",
+   "damage": 135,
+   "use_time": 38,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "EventHorizon",
+   "class": "Magic",
+   "damage": 138,
+   "use_time": 45,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Starmageddon",
+   "class": "Ranged",
+   "damage": 138,
+   "use_time": 30,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "StarSputter",
+   "class": "Ranged",
+   "damage": 138,
+   "use_time": 8,
+   "rarity": "Cyan",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Pwnagehammer",
+   "class": "Melee",
+   "damage": 140,
+   "use_time": 50,
+   "rarity": "LightPurple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Sylvestaff",
+   "class": "Magic",
+   "damage": 140,
+   "use_time": 20,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "PhoenixFlameBarrage",
+   "class": "Magic",
+   "damage": 140,
+   "use_time": 15,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "SurgeDriver",
+   "class": "Ranged",
+   "damage": 140,
+   "use_time": 28,
+   "rarity": "ExoticRainbow",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "CorinthPrime",
+   "class": "Ranged",
+   "damage": 140,
+   "use_time": 30,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "CelestialReaper",
+   "class": "Rogue",
+   "damage": 140,
+   "use_time": 31,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PhantasmalRuin",
+   "class": "Rogue",
+   "damage": 140,
+   "use_time": 30,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CraniumSmasher",
+   "class": "Rogue",
+   "damage": 140,
+   "use_time": 20,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Ozzathoth",
+   "class": "Melee",
+   "damage": 145,
+   "use_time": 20,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TheBurningSky",
+   "class": "Melee",
+   "damage": 147,
+   "use_time": 8,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Hypothermia",
+   "class": "Rogue",
+   "damage": 148,
+   "use_time": 4,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "PulseTurretRemote",
+   "class": "DraedonsArsenal",
+   "damage": 150,
+   "use_time": 30,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BalefulHarvester",
+   "class": "Melee",
+   "damage": 150,
+   "use_time": 90,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ClamCrusher",
+   "class": "Melee",
+   "damage": 150,
+   "use_time": 50,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AlphaDraconis",
+   "class": "Magic",
+   "damage": 150,
+   "use_time": 12,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Shroomer",
+   "class": "Ranged",
+   "damage": 150,
+   "use_time": 35,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AstralBlaster",
+   "class": "Ranged",
+   "damage": 150,
+   "use_time": 15,
+   "rarity": "Cyan",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AegisBlade",
+   "class": "Melee",
+   "damage": 152,
+   "use_time": 16,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PurgeGuzzler",
+   "class": "Magic",
+   "damage": 152,
+   "use_time": 38,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Seadragon",
+   "class": "Ranged",
+   "damage": 154,
+   "use_time": 3,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "CosmicShiv",
+   "class": "Melee",
+   "damage": 155,
+   "use_time": 30,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "LifehuntScythe",
+   "class": "Melee",
+   "damage": 156,
+   "use_time": 18,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Monsoon",
+   "class": "Ranged",
+   "damage": 156,
+   "use_time": 20,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ChronomancersScythe",
+   "class": "Magic",
+   "damage": 159,
+   "use_time": 5,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "JawsOfOblivion",
+   "class": "Rogue",
+   "damage": 159,
+   "use_time": 15,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "EtherealSubjugator",
+   "class": "Summon",
+   "damage": 160,
+   "use_time": 24,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "SnakeEyes",
+   "class": "DraedonsArsenal",
+   "damage": 160,
+   "use_time": 24,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "PearlGod",
+   "class": "Ranged",
+   "damage": 160,
+   "use_time": 9,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "AstrealDefeat",
+   "class": "Ranged",
+   "damage": 160,
+   "use_time": 4,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "HeavenfallenStardisk",
+   "class": "Rogue",
+   "damage": 160,
+   "use_time": 40,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "VividClarity",
+   "class": "Magic",
+   "damage": 162,
+   "use_time": 4,
+   "rarity": "ExoticRainbow",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "DaemonsFlame",
+   "class": "Ranged",
+   "damage": 162,
+   "use_time": 12,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "GodsParanoia",
+   "class": "Rogue",
+   "damage": 163,
+   "use_time": 29,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ExecutionersBlade",
+   "class": "Rogue",
+   "damage": 165,
+   "use_time": 3,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Teslastaff",
+   "class": "Magic",
+   "damage": 166,
+   "use_time": 10,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "RainbowPartyCannon",
+   "class": "Magic",
+   "damage": 170,
+   "use_time": 24,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "KingofConstellationsTenryu",
+   "class": "Summon",
+   "damage": 175,
+   "use_time": 24,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "PhalanxSurge",
+   "class": "DraedonsArsenal",
+   "damage": 175,
+   "use_time": 30,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "MidnightSunBeacon",
+   "class": "Summon",
+   "damage": 176,
+   "use_time": 24,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Roxcalibur",
+   "class": "Melee",
+   "damage": 180,
+   "use_time": null,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "StygianShield",
+   "class": "Melee",
+   "damage": 180,
+   "use_time": 40,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ThePrince",
+   "class": "Magic",
+   "damage": 180,
+   "use_time": 21,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "EidolonStaff",
+   "class": "Magic",
+   "damage": 180,
+   "use_time": 18,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "StellarCannon",
+   "class": "Ranged",
+   "damage": 180,
+   "use_time": 40,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "UniversalGenesis",
+   "class": "Ranged",
+   "damage": 180,
+   "use_time": 26,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "BrinyBaron",
+   "class": "Melee",
+   "damage": 182,
+   "use_time": 20,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GalactusBlade",
+   "class": "Melee",
+   "damage": 185,
+   "use_time": 27,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Apoctolith",
+   "class": "Rogue",
+   "damage": 185,
+   "use_time": 26,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "RemsRevenge",
+   "class": "Melee",
+   "damage": 188,
+   "use_time": 15,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "EndoHydraStaff",
+   "class": "Summon",
+   "damage": 190,
+   "use_time": 24,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "PhantasmalFury",
+   "class": "Magic",
+   "damage": 190,
+   "use_time": 3,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "NullificationPistol",
+   "class": "Ranged",
+   "damage": 190,
+   "use_time": 18,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TemporalUmbrella",
+   "class": "Summon",
+   "damage": 193,
+   "use_time": 24,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "AtlasMunitionsBeacon",
+   "class": "Summon",
+   "damage": 200,
+   "use_time": 30,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "VoidConcentrationStaff",
+   "class": "Summon",
+   "damage": 200,
+   "use_time": 24,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Lightspeed",
+   "class": "Melee",
+   "damage": 200,
+   "use_time": 20,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TitanArm",
+   "class": "Melee",
+   "damage": 200,
+   "use_time": 20,
+   "rarity": "Lime",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "EvilSmasher",
+   "class": "Melee",
+   "damage": 200,
+   "use_time": 120,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "MagneticMeltdown",
+   "class": "Magic",
+   "damage": 200,
+   "use_time": 37,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "MoltenAmputator",
+   "class": "Rogue",
+   "damage": 200,
+   "use_time": 25,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TheOracle",
+   "class": "Melee",
+   "damage": 201,
+   "use_time": 20,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "GhoulishGouger",
+   "class": "Rogue",
+   "damage": 204,
+   "use_time": 5,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "PrimordialEarth",
+   "class": "Magic",
+   "damage": 205,
+   "use_time": 68,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PoleWarper",
+   "class": "DraedonsArsenal",
+   "damage": 207,
+   "use_time": 24,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "VoidEdge",
+   "class": "Melee",
+   "damage": 210,
+   "use_time": 24,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "VoidVortex",
+   "class": "Magic",
+   "damage": 210,
+   "use_time": 49,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Spyker",
+   "class": "Ranged",
+   "damage": 210,
+   "use_time": 13,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "NitroExpressRifle",
+   "class": "Ranged",
+   "damage": 210,
+   "use_time": 70,
+   "rarity": "LightRed",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "FetidEmesis",
+   "class": "Ranged",
+   "damage": 214,
+   "use_time": 6,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "VoltaicClimax",
+   "class": "Magic",
+   "damage": 215,
+   "use_time": 34,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "EssenceFlayer",
+   "class": "Melee",
+   "damage": 220,
+   "use_time": 19,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "SealedSingularity",
+   "class": "Rogue",
+   "damage": 220,
+   "use_time": 30,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "DragonbloodDisgorger",
+   "class": "Summon",
+   "damage": 222,
+   "use_time": 24,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Lacerator",
+   "class": "Melee",
+   "damage": 222,
+   "use_time": 20,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Apotheosis",
+   "class": "Magic",
+   "damage": 222,
+   "use_time": 167,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Exorcism",
+   "class": "Rogue",
+   "damage": 222,
+   "use_time": 96,
+   "rarity": "LightPurple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "GreatswordofJudgement",
+   "class": "Melee",
+   "damage": 225,
+   "use_time": 20,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Viscera",
+   "class": "Magic",
+   "damage": 229,
+   "use_time": 7,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Svantechnical",
+   "class": "Ranged",
+   "damage": 232,
+   "use_time": 1,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "SolsticeClaymore",
+   "class": "Melee",
+   "damage": 235,
+   "use_time": 16,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SoulPiercer",
+   "class": "Magic",
+   "damage": 235,
+   "use_time": 25,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TheJailor",
+   "class": "Ranged",
+   "damage": 235,
+   "use_time": 28,
+   "rarity": "ExoticRainbow",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "VanishingPoint",
+   "class": "Melee",
+   "damage": 240,
+   "use_time": 45,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "MadAlchemistsCocktailGlove",
+   "class": "Magic",
+   "damage": 240,
+   "use_time": 15,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DoomsdayDevice",
+   "class": "Rogue",
+   "damage": 240,
+   "use_time": 55,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "RefractionRotor",
+   "class": "Rogue",
+   "damage": 240,
+   "use_time": 40,
+   "rarity": "ExoticRainbow",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Valediction",
+   "class": "Rogue",
+   "damage": 243,
+   "use_time": 17,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "AstralStaff",
+   "class": "Magic",
+   "damage": 245,
+   "use_time": 18,
+   "rarity": "Cyan",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "BloodsoakedCrasher",
+   "class": "Rogue",
+   "damage": 245,
+   "use_time": 24,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TacticiansTrumpCard",
+   "class": "Magic",
+   "damage": 248,
+   "use_time": 12,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Kingsbane",
+   "class": "Ranged",
+   "damage": 249,
+   "use_time": 3,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "MutatedTruffle",
+   "class": "Summon",
+   "damage": 250,
+   "use_time": 24,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "InsidiousImpaler",
+   "class": "Melee",
+   "damage": 250,
+   "use_time": 13,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "BansheeHook",
+   "class": "Melee",
+   "damage": 250,
+   "use_time": 21,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "CosmicViperEngine",
+   "class": "Summon",
+   "damage": 255,
+   "use_time": 24,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "MirrorofKalandra",
+   "class": "Summon",
+   "damage": 256,
+   "use_time": 24,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ArterialAssault",
+   "class": "Ranged",
+   "damage": 256,
+   "use_time": 6,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "HeavenlyGale",
+   "class": "Ranged",
+   "damage": 256,
+   "use_time": null,
+   "rarity": "ExoticRainbow",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "MajesticGuard",
+   "class": "Melee",
+   "damage": 270,
+   "use_time": 50,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "ToxicantTwister",
+   "class": "Rogue",
+   "damage": 272,
+   "use_time": 40,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "CleansingBlaze",
+   "class": "Ranged",
+   "damage": 275,
+   "use_time": 3,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ChickenCannon",
+   "class": "Ranged",
+   "damage": 277,
+   "use_time": 30,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "MagnomalyCannon",
+   "class": "Ranged",
+   "damage": 279,
+   "use_time": 15,
+   "rarity": "ExoticRainbow",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Celestus",
+   "class": "Rogue",
+   "damage": 280,
+   "use_time": 22,
+   "rarity": "ExoticRainbow",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Seraphim",
+   "class": "Rogue",
+   "damage": 280,
+   "use_time": 13,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ShadowboltStaff",
+   "class": "Magic",
+   "damage": 285,
+   "use_time": 8,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TheAtomSplitter",
+   "class": "Rogue",
+   "damage": 296,
+   "use_time": 25,
+   "rarity": "ExoticRainbow",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "PulseDragon",
+   "class": "DraedonsArsenal",
+   "damage": 300,
+   "use_time": 20,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "BurningRevelation",
+   "class": "Melee",
+   "damage": 300,
+   "use_time": 20,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Hellborn",
+   "class": "Ranged",
+   "damage": 300,
+   "use_time": 30,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Sacrifice",
+   "class": "Rogue",
+   "damage": 300,
+   "use_time": 9,
+   "rarity": "CalamityRed",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ProfanedPartisan",
+   "class": "Rogue",
+   "damage": 300,
+   "use_time": 21,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TimeBolt",
+   "class": "Rogue",
+   "damage": 303,
+   "use_time": 20,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "FallenPaladinsHammer",
+   "class": "Melee",
+   "damage": 315,
+   "use_time": 57,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AetherfluxCannon",
+   "class": "Magic",
+   "damage": 315,
+   "use_time": null,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "UnstableCastersGauntlet",
+   "class": "Magic",
+   "damage": 320,
+   "use_time": null,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "YharonsKindleStaff",
+   "class": "Summon",
+   "damage": 325,
+   "use_time": 24,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Ataraxia",
+   "class": "Melee",
+   "damage": 325,
+   "use_time": 10,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "AcesHigh",
+   "class": "Ranged",
+   "damage": 325,
+   "use_time": 3,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "DragonsBreath",
+   "class": "Ranged",
+   "damage": 328,
+   "use_time": 30,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "DragonPow",
+   "class": "Melee",
+   "damage": 333,
+   "use_time": 20,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "DevilsDevastation",
+   "class": "Melee",
+   "damage": 333,
+   "use_time": 45,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Rancor",
+   "class": "Magic",
+   "damage": 333,
+   "use_time": 25,
+   "rarity": "CalamityRed",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "UtensilPoker",
+   "class": "Rogue",
+   "damage": 333,
+   "use_time": 15,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "DraconicDestruction",
+   "class": "Melee",
+   "damage": 350,
+   "use_time": 34,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "GrandGuardian",
+   "class": "Melee",
+   "damage": 360,
+   "use_time": 35,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SkytideDragoon",
+   "class": "Melee",
+   "damage": 365,
+   "use_time": 35,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Nadir",
+   "class": "Melee",
+   "damage": 365,
+   "use_time": 18,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TheObliterator",
+   "class": "Melee",
+   "damage": 370,
+   "use_time": 20,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TitaniumRailgun",
+   "class": "Ranged",
+   "damage": 370,
+   "use_time": 26,
+   "rarity": "Pink",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Perdition",
+   "class": "Summon",
+   "damage": 375,
+   "use_time": 30,
+   "rarity": "CalamityRed",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ScourgeoftheCosmos",
+   "class": "Melee",
+   "damage": 380,
+   "use_time": 16,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TarragonThrowingDart",
+   "class": "Rogue",
+   "damage": 380,
+   "use_time": 11,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "CadaverousCarrion",
+   "class": "Summon",
+   "damage": 384,
+   "use_time": 30,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Metastasis",
+   "class": "Summon",
+   "damage": 400,
+   "use_time": 24,
+   "rarity": "CalamityRed",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "RedSun",
+   "class": "Melee",
+   "damage": 400,
+   "use_time": 10,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "StratusSphere",
+   "class": "Typeless",
+   "damage": 400,
+   "use_time": 30,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "StarofDestruction",
+   "class": "Rogue",
+   "damage": 400,
+   "use_time": 90,
+   "rarity": "Red",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "NeptunesBounty",
+   "class": "Melee",
+   "damage": 420,
+   "use_time": 65,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "DevilsSunrise",
+   "class": "Melee",
+   "damage": 420,
+   "use_time": 5,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "RealityRupture",
+   "class": "Rogue",
+   "damage": 420,
+   "use_time": 37,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "PrismaticBreaker",
+   "class": "Melee",
+   "damage": 425,
+   "use_time": 13,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ArkoftheElements",
+   "class": "Melee",
+   "damage": 444,
+   "use_time": 20,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "HalleysInferno",
+   "class": "Ranged",
+   "damage": 444,
+   "use_time": 5,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "OntologicalDespoiler",
+   "class": "Ranged",
+   "damage": 445,
+   "use_time": 8,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "WarloksMoonFist",
+   "class": "Summon",
+   "damage": 450,
+   "use_time": 24,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "CosmicDischarge",
+   "class": "Melee",
+   "damage": 450,
+   "use_time": 15,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "RubicoPrime",
+   "class": "Ranged",
+   "damage": 450,
+   "use_time": 50,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "SubsumingVortex",
+   "class": "Magic",
+   "damage": 460,
+   "use_time": 20,
+   "rarity": "ExoticRainbow",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "DeepSeaDumbbell",
+   "class": "Rogue",
+   "damage": 466,
+   "use_time": 25,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TwistingThunder",
+   "class": "Rogue",
+   "damage": 466,
+   "use_time": 21,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "StreamGouge",
+   "class": "Melee",
+   "damage": 470,
+   "use_time": 19,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Violence",
+   "class": "Melee",
+   "damage": 485,
+   "use_time": 25,
+   "rarity": "CalamityRed",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Photoviscerator",
+   "class": "Ranged",
+   "damage": 495,
+   "use_time": null,
+   "rarity": "ExoticRainbow",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "DeathsAscension",
+   "class": "Melee",
+   "damage": 500,
+   "use_time": 24,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ClaretCannon",
+   "class": "Typeless",
+   "damage": 500,
+   "use_time": 10,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Vega",
+   "class": "Rogue",
+   "damage": 500,
+   "use_time": 20,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "LiliesOfFinality",
+   "class": "Summon",
+   "damage": 512,
+   "use_time": 24,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TheDanceofLight",
+   "class": "Magic",
+   "damage": 515,
+   "use_time": 2,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "IllustriousKnives",
+   "class": "Melee",
+   "damage": 525,
+   "use_time": 8,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "StellarContempt",
+   "class": "Melee",
+   "damage": 525,
+   "use_time": 48,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "PulseRifle",
+   "class": "DraedonsArsenal",
+   "damage": 530,
+   "use_time": 55,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "NebulousCataclysm",
+   "class": "Magic",
+   "damage": 530,
+   "use_time": 30,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "AresExoskeleton",
+   "class": "Summon",
+   "damage": 550,
+   "use_time": 24,
+   "rarity": "ExoticRainbow",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "SulphuricAcidCannon",
+   "class": "Ranged",
+   "damage": 550,
+   "use_time": 35,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "BlissfulBombardier",
+   "class": "Ranged",
+   "damage": 550,
+   "use_time": 39,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ScorchedEarth",
+   "class": "Ranged",
+   "damage": 550,
+   "use_time": null,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TheMaelstrom",
+   "class": "Ranged",
+   "damage": 550,
+   "use_time": 45,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "NanoblackReaper",
+   "class": "Rogue",
+   "damage": 555,
+   "use_time": 19,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "CosmicImmaterializer",
+   "class": "Summon",
+   "damage": 560,
+   "use_time": 24,
+   "rarity": "ExoticRainbow",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TerrorBlade",
+   "class": "Melee",
+   "damage": 560,
+   "use_time": 18,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Hellkite",
+   "class": "Melee",
+   "damage": 570,
+   "use_time": 71,
+   "rarity": "Yellow",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Wrathwing",
+   "class": "Rogue",
+   "damage": 592,
+   "use_time": 13,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TheLastMourning",
+   "class": "Melee",
+   "damage": 600,
+   "use_time": 20,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "GalileoGladius",
+   "class": "Melee",
+   "damage": 600,
+   "use_time": 8,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "MirrorBlade",
+   "class": "Melee",
+   "damage": 600,
+   "use_time": 40,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "AethersWhisper",
+   "class": "Magic",
+   "damage": 600,
+   "use_time": 24,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TauCannon",
+   "class": "Ranged",
+   "damage": 620,
+   "use_time": 180,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "GruesomeEminence",
+   "class": "Magic",
+   "damage": 666,
+   "use_time": 27,
+   "rarity": "CalamityRed",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Auralis",
+   "class": "Ranged",
+   "damage": 695,
+   "use_time": 30,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Orderbringer",
+   "class": "Melee",
+   "damage": 700,
+   "use_time": 16,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "EclipsesFall",
+   "class": "Rogue",
+   "damage": 700,
+   "use_time": 24,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "PlasmaCaster",
+   "class": "DraedonsArsenal",
+   "damage": 705,
+   "use_time": 45,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "SomaPrime",
+   "class": "Ranged",
+   "damage": 705,
+   "use_time": 5,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Penumbra",
+   "class": "Rogue",
+   "damage": 725,
+   "use_time": 35,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "DimensionTearingDisk",
+   "class": "Rogue",
+   "damage": 725,
+   "use_time": 27,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "HandheldTank",
+   "class": "Ranged",
+   "damage": 740,
+   "use_time": 74,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ClockworkBow",
+   "class": "Ranged",
+   "damage": 770,
+   "use_time": 30,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "TheSevensStriker",
+   "class": "Ranged",
+   "damage": 777,
+   "use_time": 30,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "PlasmaGrenade",
+   "class": "DraedonsArsenal",
+   "damage": 860,
+   "use_time": 30,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Contagion",
+   "class": "Ranged",
+   "damage": 880,
+   "use_time": 20,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "DragonRage",
+   "class": "Melee",
+   "damage": 888,
+   "use_time": 25,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Volterion",
+   "class": "Magic",
+   "damage": 890,
+   "use_time": 80,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Exoblade",
+   "class": "Melee",
+   "damage": 915,
+   "use_time": null,
+   "rarity": "ExoticRainbow",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "SepticSkewer",
+   "class": "Ranged",
+   "damage": 933,
+   "use_time": 30,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "EidolicWail",
+   "class": "Magic",
+   "damage": 943,
+   "use_time": 10,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "LionHeart",
+   "class": "Melee",
+   "damage": 960,
+   "use_time": 15,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Heresy",
+   "class": "Magic",
+   "damage": 960,
+   "use_time": 120,
+   "rarity": "CalamityRed",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "CrescentMoon",
+   "class": "Melee",
+   "damage": 1000,
+   "use_time": 18,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ThePack",
+   "class": "Ranged",
+   "damage": 1000,
+   "use_time": 53,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TheMutilator",
+   "class": "Melee",
+   "damage": 1005,
+   "use_time": 30,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "SanguineFlare",
+   "class": "Magic",
+   "damage": 1050,
+   "use_time": 25,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "GalaxySmasher",
+   "class": "Melee",
+   "damage": 1100,
+   "use_time": 48,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "VenusianTrident",
+   "class": "Magic",
+   "damage": 1150,
+   "use_time": 65,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "SeekingScorcher",
+   "class": "Melee",
+   "damage": 1170,
+   "use_time": 55,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TeslaCannon",
+   "class": "DraedonsArsenal",
+   "damage": 1200,
+   "use_time": 90,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Endogenesis",
+   "class": "Summon",
+   "damage": 1300,
+   "use_time": 24,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Phaseslayer",
+   "class": "DraedonsArsenal",
+   "damage": 1350,
+   "use_time": 24,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "PhotonRipper",
+   "class": "Melee",
+   "damage": 1400,
+   "use_time": 5,
+   "rarity": "ExoticRainbow",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Voidragon",
+   "class": "Ranged",
+   "damage": 1400,
+   "use_time": 3,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TheOldReaper",
+   "class": "Rogue",
+   "damage": 1420,
+   "use_time": 50,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ThreadOfEradication",
+   "class": "Ranged",
+   "damage": 1500,
+   "use_time": 45,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TheAnomalysNanogun",
+   "class": "DraedonsArsenal",
+   "damage": 1600,
+   "use_time": null,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "CindersOfLament",
+   "class": "Summon",
+   "damage": 1666,
+   "use_time": 80,
+   "rarity": "CalamityRed",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ArkoftheCosmos",
+   "class": "Melee",
+   "damage": 1700,
+   "use_time": 15,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "RelicOfDeliverance",
+   "class": "Typeless",
+   "damage": 1700,
+   "use_time": 35,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "AntiMaterielRifle",
+   "class": "Ranged",
+   "damage": 1818,
+   "use_time": 60,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "FlamsteedRing",
+   "class": "Summon",
+   "damage": 1999,
+   "use_time": 9,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TriactisTruePaladinianMageHammerofMight",
+   "class": "Melee",
+   "damage": 2000,
+   "use_time": 25,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "DynamicPursuer",
+   "class": "Rogue",
+   "damage": 2000,
+   "use_time": 42,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "MawOfInfinity",
+   "class": "Melee",
+   "damage": 2080,
+   "use_time": 33,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "GildedProboscis",
+   "class": "Melee",
+   "damage": 2090,
+   "use_time": 65,
+   "rarity": "Purple",
+   "vanilla_rarity": true
+  },
+  {
+   "name": "Condemnation",
+   "class": "Ranged",
+   "damage": 2130,
+   "use_time": 22,
+   "rarity": "CalamityRed",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TyrannysEnd",
+   "class": "Ranged",
+   "damage": 2150,
+   "use_time": 60,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Murasama",
+   "class": "Melee",
+   "damage": 2200,
+   "use_time": 5,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "HolyCollider",
+   "class": "Melee",
+   "damage": 2200,
+   "use_time": 45,
+   "rarity": "Turquoise",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "IceBarrage",
+   "class": "Magic",
+   "damage": 2250,
+   "use_time": 300,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Karasawa",
+   "class": "Ranged",
+   "damage": 2400,
+   "use_time": 52,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "TheFinalDawn",
+   "class": "Rogue",
+   "damage": 2500,
+   "use_time": 15,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "VitriolicViper",
+   "class": "Magic",
+   "damage": 2626,
+   "use_time": 16,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Starfleet",
+   "class": "Ranged",
+   "damage": 3170,
+   "use_time": 70,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "PhosphorescentGauntlet",
+   "class": "Melee",
+   "damage": 3200,
+   "use_time": 40,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "HeliumFlash",
+   "class": "Magic",
+   "damage": 3200,
+   "use_time": null,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "PrimordialAncient",
+   "class": "Magic",
+   "damage": 3825,
+   "use_time": 72,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "HyperdeathRiftScepter",
+   "class": "Magic",
+   "damage": 4100,
+   "use_time": 50,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Earth",
+   "class": "Melee",
+   "damage": 4200,
+   "use_time": 42,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Starmada",
+   "class": "Ranged",
+   "damage": 4900,
+   "use_time": 70,
+   "rarity": "BurnishedAuric",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Supernova",
+   "class": "Rogue",
+   "damage": 5200,
+   "use_time": 70,
+   "rarity": "ExoticRainbow",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "GrandDad",
+   "class": "Melee",
+   "damage": 5577,
+   "use_time": 77,
+   "rarity": "PureGreen",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Norfleet",
+   "class": "Ranged",
+   "damage": 5678,
+   "use_time": 70,
+   "rarity": "CosmicPurple",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "Vehemence",
+   "class": "Magic",
+   "damage": 6666,
+   "use_time": 43,
+   "rarity": "CalamityRed",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "ScarletDevil",
+   "class": "Rogue",
+   "damage": 8800,
+   "use_time": 60,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  },
+  {
+   "name": "UniverseSplitter",
+   "class": "Summon",
+   "damage": 9000,
+   "use_time": 10,
+   "rarity": "HotPink",
+   "vanilla_rarity": false
+  }
+ ],
+ "bosses": [
+  {
+   "name": "BrainIllusion",
+   "life": 1,
+   "damage": 20,
+   "defense": null
+  },
+  {
+   "name": "FalseBrain",
+   "life": 1,
+   "damage": 0,
+   "defense": null
+  },
+  {
+   "name": "StormWeaverHead",
+   "life": 825000,
+   "damage": 180,
+   "defense": 150
+  },
+  {
+   "name": "StormWeaverTail",
+   "life": 825000,
+   "damage": 80,
+   "defense": 40
+  },
+  {
+   "name": "StormWeaverBody",
+   "life": 825000,
+   "damage": 90,
+   "defense": 150
+  },
+  {
+   "name": "THELORDE",
+   "life": 2500000,
+   "damage": 69,
+   "defense": 100
+  }
+ ],
+ "damage_by_rarity": {
+  "CalamityRed": {
+   "n": 11,
+   "median_damage": 485,
+   "p25": 333.0,
+   "p75": 1666.0
+  },
+  "Lime": {
+   "n": 55,
+   "median_damage": 65,
+   "p25": 50.0,
+   "p75": 84.0
+  },
+  "Purple": {
+   "n": 41,
+   "median_damage": 117,
+   "p25": 74.5,
+   "p75": 237.5
+  },
+  "Turquoise": {
+   "n": 68,
+   "median_damage": 182.5,
+   "p25": 113.5,
+   "p75": 415.0
+  },
+  "Yellow": {
+   "n": 77,
+   "median_damage": 78,
+   "p25": 54.5,
+   "p75": 112.5
+  },
+  "ExoticRainbow": {
+   "n": 16,
+   "median_damage": 288.0,
+   "p25": 236.25,
+   "p75": 557.5
+  },
+  "Blue": {
+   "n": 17,
+   "median_damage": 14,
+   "p25": 11.0,
+   "p75": 17.0
+  },
+  "Green": {
+   "n": 55,
+   "median_damage": 17,
+   "p25": 12.0,
+   "p75": 25.0
+  },
+  "Red": {
+   "n": 23,
+   "median_damage": 85,
+   "p25": 55.0,
+   "p75": 150.0
+  },
+  "Orange": {
+   "n": 62,
+   "median_damage": 22.5,
+   "p25": 16.0,
+   "p75": 31.5
+  },
+  "BurnishedAuric": {
+   "n": 30,
+   "median_damage": 325.0,
+   "p25": 194.75,
+   "p75": 747.0
+  },
+  "CosmicPurple": {
+   "n": 52,
+   "median_damage": 318.0,
+   "p25": 149.75,
+   "p75": 1075.0
+  },
+  "Pink": {
+   "n": 83,
+   "median_damage": 50,
+   "p25": 39.0,
+   "p75": 75.0
+  },
+  "PureGreen": {
+   "n": 45,
+   "median_damage": 285,
+   "p25": 161.0,
+   "p75": 610.0
+  },
+  "LightPurple": {
+   "n": 11,
+   "median_damage": 80,
+   "p25": 38.0,
+   "p75": 117.0
+  },
+  "Cyan": {
+   "n": 9,
+   "median_damage": 103,
+   "p25": 75.0,
+   "p75": 144.0
+  },
+  "LightRed": {
+   "n": 45,
+   "median_damage": 38,
+   "p25": 25.0,
+   "p75": 63.5
+  },
+  "HotPink": {
+   "n": 22,
+   "median_damage": 520.0,
+   "p25": 187.25,
+   "p75": 1549.75
+  },
+  "White": {
+   "n": 6,
+   "median_damage": 9.5,
+   "p25": 8.75,
+   "p75": 11.75
+  }
+ },
+ "vanilla_rarity_order": [
+  "White",
+  "Blue",
+  "Green",
+  "Orange",
+  "LightRed",
+  "Pink",
+  "LightPurple",
+  "Lime",
+  "Yellow",
+  "Cyan",
+  "Red",
+  "Purple"
+ ]
+}
